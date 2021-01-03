@@ -1,1 +1,2 @@
 shop-master-user1 add 1.txt
+shop-master-user1 add 1.txt line 2
