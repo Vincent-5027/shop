@@ -1,2 +1,3 @@
 shop-master-user2 add 2.txt
 shop-master-user2 add 2.txt line 2
+shop-master-user1 add 2.txt line 3
